@@ -1,0 +1,18 @@
+# Site settings
+title: David J. H. Shih
+email: djh.shih at gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Genomics Researcher and Programmer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://djhshih.github.io"
+
+github_username: djhshih
+bitbucket_username: djhshih
+linkedin_username: davidjhshih
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
