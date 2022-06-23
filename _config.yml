@@ -34,6 +34,7 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - webrick
+  - jekyll-include-cache
 
 # minimal-mistakes-jekyll theme settings
 paginate: 5
