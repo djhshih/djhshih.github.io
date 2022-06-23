@@ -28,7 +28,8 @@ baseurl: ""
 url: "https://djhshih.github.io"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 plugins:
   - webrick
   - jekyll-include-cache
