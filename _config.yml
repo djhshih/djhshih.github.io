@@ -63,6 +63,9 @@ twitter:
 # Site Footer
 footer:
   links:
+    - label: "ORCID"
+      icon: "far fa-id-badge"
+      url: "https://orcid.org/0000-0002-9802-4937"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/djhshih"
