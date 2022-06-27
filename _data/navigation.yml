@@ -1,0 +1,28 @@
+main:
+  - title: "Join Us"
+    url: /join/
+  - title: "About"
+    url: /about/
+  - title: "Science"
+    url: /science/
+  - title: "Resource"
+    url: /resource/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
+
+join:
+  - title: "Join Us"
+    children:
+      - title: "Overview"
+        url: /join/
+      - title: "Postdoctoral Fellow"
+        url: /join/postdoc/
+      - title: "Postgraduate Student"
+        url: /join/postgrad/
+      - title: "Research Assistant"
+        url: /join/ra/
+      - title: "Undergraduate Intern"
+        url: /join/undergrad/
+
