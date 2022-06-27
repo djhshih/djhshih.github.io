@@ -20,7 +20,7 @@ locale: "en_US"
 title: David Shih Lab
 title_separator: "-"
 subtitle: Cancer genomics research group at HKU
-email: dshih@hku.hk
+email: dshih (at) hku (dot) hk
 description: >-
   Cancer genomics research group at the University of Hong Kong.
   We unravel the complexity of cancer using genomic technologies,
@@ -93,9 +93,9 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       url: "https://bitbucket.org/djhshih"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dshih@hku.hk"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/djhshih"
 
 # Reading Files
 include:
