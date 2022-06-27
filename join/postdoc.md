@@ -16,7 +16,7 @@ We are looking for motivated postdoctoral fellows to lead research projects!
 
 ## How to apply
 
-1. Satisfy my requirements above.
+1. Satisfy the requirements above.
 2. Email {{ site.email }} with your CV and research interests.
 3. Prepare for a pair programming interview.
 4. Discussion of research project.
