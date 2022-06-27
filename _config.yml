@@ -64,7 +64,7 @@ twitter:
 footer:
   links:
     - label: "ORCID"
-      icon: "person"
+      icon: "fas fa-portrait"
       url: "https://orcid.org/0000-0002-9802-4937"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
