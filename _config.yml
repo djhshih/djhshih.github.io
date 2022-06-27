@@ -15,13 +15,14 @@
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 
+locale: "en_US"
 title: David Shih Lab
+title_separator: "-"
+subtitle: Cancer genomics research group at HKU
 email: dshih@hku.hk
 description: >-
-  Cancer genomics lab at the University of Hong Kong.
+  Cancer genomics research group at the University of Hong Kong.
   We unravel the complexity of cancer using genomic technologies,
   statistical models, and computational algorithms.
 baseurl: "" 
@@ -55,17 +56,34 @@ search_provider: lunr
 lunr:
   search_within_pages: true
 
+# Appearance of links shared links from site
 twitter:
-  username: djhshih
+  username: "djhshih"
+facebook:
+  username: "davidjhshih"
+social:
+  type: "Person"
+  name: "David J. H. Shih"
+  links:
+    - "https://orcid.org/0000-0002-9802-4937"
+    - "https://www.linkedin.com/in/davidjhshih"
+    - "https://twitter.com/djhshih"
 
-
+# Google Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-7T4RTR4CY6"
 
 # Site Footer
 footer:
   links:
     - label: "ORCID"
-      icon: "fas fa-portrait"
+      icon: "fas fa-fw fa-portrait"
       url: "https://orcid.org/0000-0002-9802-4937"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/davidjhshih"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/djhshih"
@@ -136,9 +154,9 @@ kramdown:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
-timezone: HK
+timezone: America/New_York
 
 # HTML Compression
 # - https://jch.penibelst.de/
@@ -166,6 +184,7 @@ tag_archive:
 
 # Defaults
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -173,7 +192,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      show_date: true
       share: true
       related: true
 
