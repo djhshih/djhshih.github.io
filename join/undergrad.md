@@ -13,6 +13,8 @@ participate in a final year project with u:
 Alternative, you can also participating in a 
 [summer internship][sbms-summer].
 
+Email {{ site.email }} with your CV to discuss research projects.
+
 [bioc4999]: https://www.sbms.hku.hk/education/undergraduate-education/bsc-major-in-biochemistry/student-projects
 [bmedsci]: https://www.sbms.hku.hk/education/undergraduate-education/bachelor-of-biomedical-sciences/curriculum
 [sbms-summer]: https://www.sbms.hku.hk/education/undergraduate-education/bachelor-of-biomedical-sciences/research-opportunities

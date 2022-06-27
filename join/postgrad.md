@@ -45,7 +45,7 @@ depending on the [scholarship][scholarship] that you receive.
 
 1. Review the [admission requirements][rpg-req].
 2. Satisfy a set of requirements above.
-3. Email me with your CV and research interests.
+3. Email {{ site.email }} with your CV and research interests.
 4. Prepare for a pair programming interview.
 5. Prepare your research proposal with my help.
 6. Submit [application][rpg-app] to the HKU graduate school,
@@ -60,7 +60,7 @@ conducting a supervised research project.
 
 1. Review the [admission requirements][mmedsc-req].
 2. Satisfy a set of requirements above.
-3. Email me with your CV and research interests.
+3. Email {{ site.email }} with your CV and research interests.
 4. Submit an application, selecting [SBMS7800][sbms7800] as a
    specialization.
 

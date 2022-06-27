@@ -11,6 +11,6 @@ School of Biomedical Sciences of HKU are highly preferred.
 
 1. Satisfy a set of requirements for a
    [postgraduate student](/join/postgrad/).
-2. Email me with your CV and research interests.
+2. Email {{ site.email }} with your CV and research interests.
 3. Prepare for a pair programming interview.
 

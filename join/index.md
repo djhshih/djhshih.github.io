@@ -13,5 +13,5 @@ Our research requires the following skills:
 - statistical modelling
 - biological inference
 
-Click an available position on the left for more information.
+Click on an available position to the left for more information.
 
