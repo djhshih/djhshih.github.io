@@ -2,7 +2,7 @@
 layout: home
 ---
 
-We work on **cancer genomics** at the School of Biomedical Sciences 
+We work on [cancer genomics][cancer-genomics] at the School of Biomedical Sciences 
 in the Li Ka Shing Faculty of Medicine
 at the University of Hong Kong.
 
@@ -15,6 +15,8 @@ at the University of Hong Kong.
 
 We are recruiting motivated postdoctoral fellows and postgraduate 
 students to [join our growing team](/join/)!
+
+[cancer-genomics]: https://www.nature.com/subjects/cancer-genomics
 
 <br />
 <br />
