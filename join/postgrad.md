@@ -7,7 +7,7 @@ permalink: /join/postgrad/
 ## Requirements
 
 We welcome prospective students to pursue postgraduate study with us!
-You should meet all requirements for any set below.
+You should meet at least one set of requirements below.
 
 #### Skilled Coder
 - BSc in a biological, computational, or statistics field
