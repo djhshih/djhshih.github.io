@@ -26,3 +26,15 @@ join:
       - title: "Undergraduate Intern"
         url: /join/undergrad/
 
+resources:
+  - title: "Resources"
+    children:
+      - title: "Overview"
+        url: /resources/
+      - title: "Programming"
+        url: /resources/programming/
+      - title: "Statistics"
+        url: /resources/stats/
+      - title: "Databases"
+        url: /resources/db/
+
