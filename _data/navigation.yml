@@ -33,6 +33,8 @@ res:
         url: /res/
       - title: "Programming"
         url: /res/programming/
+      - title: "Software"
+        url: /res/software/
       - title: "Statistics"
         url: /res/stats/
       - title: "Databases"

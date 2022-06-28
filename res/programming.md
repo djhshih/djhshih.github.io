@@ -32,11 +32,3 @@ permalink: /res/programming/
 
 - [Introduction to Julia](https://sje30.github.io/catam-julia/)
 
-## Nix
-
-- [Nix by Example](https://medium.com/@MrJamesFisher/nix-by-example-a0063a1a4c55)
-
-## Workflow Description Language
-
-- [First WDL Script](https://support.terra.bio/hc/en-us/articles/360037127992--1-howto-Write-your-first-WDL-script-running-GATK-HaplotypeCaller)
-

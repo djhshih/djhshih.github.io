@@ -25,7 +25,3 @@ permalink: /res/stats/
   (David M. Blei, Alp Kuculkelbir, Jon D. McAuliffe):
   Tutorial for statisticians
 
-## Programming
-
-- [RStan](https://mc-stan.org/rstan/articles/rstan.html)
-
