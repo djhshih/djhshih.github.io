@@ -25,7 +25,7 @@ You should meet at least one set of requirements below.
 
 #### Elite Scholar
 - BSc with a very high GPA (3.8 out of 4.3, or equivalent)
-- BSc conferred from a top 50 university based on
+- BSc conferred by a top 50 university based on either
     - [QS World University Ranking][qs-ranking], or
     - [Times Higher Education World University Ranking][the-ranking]
 
