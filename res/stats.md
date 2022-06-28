@@ -1,13 +1,17 @@
 ---
 layout: single
-title: Programming
+title: Statistics
 permalink: /res/stats/
 ---
 
-- [Intro to Bayesian Methods](https://trepo.tuni.fi/bitstream/handle/10024/128392/bayesian_methods.pdf)
+## Introductory
+
+- [Bayesian Methods](https://trepo.tuni.fi/bitstream/handle/10024/128392/bayesian_methods.pdf)
   (Robert Piche):
   Accessible introductory course to Bayesian inference and methods,
   with worked examples in WinBUGS
+
+## Advanced Topics
 
 - [Bayesian Methods for Statistical Analysis](https://library.oapen.org/bitstream/handle/20.500.12657/32424/611011.pdf)
   (Borek Puza):
@@ -20,4 +24,8 @@ permalink: /res/stats/
 - [Variational Inference](https://arxiv.org/abs/1601.00670)
   (David M. Blei, Alp Kuculkelbir, Jon D. McAuliffe):
   Tutorial for statisticians
+
+## Programming
+
+- [RStan](https://mc-stan.org/rstan/articles/rstan.html)
 
