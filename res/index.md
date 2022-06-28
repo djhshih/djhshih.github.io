@@ -4,5 +4,6 @@ title: Resources
 permalink: /res/
 ---
 
-Here are links to some resources that we use.
+We use many common resources for learning, teaching, and research.
+For more, click on an item in the menu.
 
