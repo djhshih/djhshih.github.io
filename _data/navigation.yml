@@ -5,8 +5,8 @@ main:
     url: /about/
   - title: "Science"
     url: /science/
-  - title: "Resource"
-    url: /resource/
+  - title: "Resources"
+    url: /resources/
   - title: "Blog"
     url: /blog/
   - title: "Contact"
