@@ -10,14 +10,14 @@ We welcome prospective students to pursue postgraduate study with us!
 You should meet at least one set of requirements below.
 
 #### Skilled Coder
-- BSc in a biological, computational, or statistics field
+- BSc in a science, technology, engineering, or mathemtics field
 - Proficiency in R, Python, C, C++, Rust, or Julia
 - Competency in Bash
 
 *or*
 
 #### Adept Mathematician
-- BSc in a mathematical field
+- BSc in a mathematics field
 - Proficiency in mathematical statistics
 - Experience in R, Python, C, C++, Rust, or Julia
 
