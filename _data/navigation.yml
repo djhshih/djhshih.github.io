@@ -6,7 +6,7 @@ main:
   - title: "Science"
     url: /science/
   - title: "Resources"
-    url: /resources/
+    url: /res/
   - title: "Blog"
     url: /blog/
   - title: "Contact"
@@ -26,15 +26,15 @@ join:
       - title: "Undergraduate Intern"
         url: /join/undergrad/
 
-resources:
+res:
   - title: "Resources"
     children:
       - title: "Overview"
-        url: /resources/
+        url: /res/
       - title: "Programming"
-        url: /resources/programming/
+        url: /res/programming/
       - title: "Statistics"
-        url: /resources/stats/
+        url: /res/stats/
       - title: "Databases"
-        url: /resources/db/
+        url: /res/db/
 

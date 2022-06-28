@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Programming
-permalink: /resources/programming
+permalink: /res/programming/
 ---
 
 ## General

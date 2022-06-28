@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Databases
-permalink: /resources/db/
+permalink: /res/db/
 ---
 
 ## Cancer genomics

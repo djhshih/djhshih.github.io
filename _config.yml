@@ -209,4 +209,13 @@ defaults:
       share: true
       sidebar:
         nav: "join"
+  # resources
+  - scope:
+      path: "res"
+      type: pages
+    values:
+      layout: single
+      share: true
+      sidebar:
+        nav: "res"
 

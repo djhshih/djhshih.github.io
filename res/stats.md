@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Programming
-permalink: /resources/stats
+permalink: /res/stats/
 ---
 
 - [Intro to Bayesian Methods](https://trepo.tuni.fi/bitstream/handle/10024/128392/bayesian_methods.pdf)

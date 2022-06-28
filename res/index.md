@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Resources
-permalink: /resources/
+permalink: /res/
 ---
 
 Here are links to some resources that we use.
