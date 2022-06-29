@@ -10,7 +10,7 @@ Li Ka Shing Faculty of Medicine at the University of Hong Kong.
 
 ### Principal Investigator
 
-David J. H. Shih, PhD
+David J. H. Shih, PhD  
 Assistant Professor, School of Biomedical Sciences  
 *Interests*: cancer genomics, Bayesian modelling, deep learning  
 *Hobbies*: programming, swimming, cooking, softball, volleyball
