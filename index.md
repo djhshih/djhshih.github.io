@@ -12,9 +12,9 @@ This knowledge can in turn help improve anti-cancer treatments and
 identify new therapeutic strategies.
 
 Our research topics include:
+- artifact removal
 - mutational processes
-- genomic landscape of cancer
-- sequence artifact filter
+- genomic landscape
 - spatial transcriptomics
 
 <br />

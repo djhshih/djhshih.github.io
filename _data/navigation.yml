@@ -4,7 +4,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Science"
-    url: /science/
+    url: /sci/
   - title: "Resources"
     url: /res/
   - title: "Blog"
@@ -39,4 +39,18 @@ res:
         url: /res/stats/
       - title: "Databases"
         url: /res/db/
+
+sci:
+  - title: "Science"
+    children:
+      - title: "Overview"
+        url: /res/
+      - title: "Artifact Removal"
+        url: /res/artifact/
+      - title: "Mutational Processes"
+        url: /res/mutproc/
+      - title: "Genomic Landscape"
+        url: /res/genomic/
+      - title: "Spatial Transcriptomics"
+        url: /res/st/
 
