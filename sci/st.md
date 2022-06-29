@@ -18,4 +18,3 @@ permalink: /sci/st
 
 - Accelerate the derivation of biologlical insights from spatial
   transcriptomics
-
