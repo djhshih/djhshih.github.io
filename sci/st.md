@@ -16,6 +16,6 @@ permalink: /sci/st
 
 ## Impact
 
-- Enable the derivation of biologlical insights from spatial
+- Accelerate the derivation of biologlical insights from spatial
   transcriptomics
 
