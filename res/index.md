@@ -5,7 +5,7 @@ permalink: /res/
 ---
 
 We use many common resources for learning, teaching, and research.
-For more, click on an item in the menu.
+For more information, select on an item in the menu.
 
 ## Our contributions
 
