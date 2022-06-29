@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Undergraduate Intern
+date: 2022-06-29
 permalink: /join/undergrad/
 ---
 

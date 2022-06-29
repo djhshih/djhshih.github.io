@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Postdoctoral Fellow
+date: 2022-06-29
 permalink: /join/postdoc/
 ---
 

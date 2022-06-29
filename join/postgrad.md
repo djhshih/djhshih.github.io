@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Postgraduate Student
+date: 2022-06-29
 permalink: /join/postgrad/
 ---
 

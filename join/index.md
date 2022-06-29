@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Join Us
+date: 2022-06-29
 permalink: /join/
 ---
 
