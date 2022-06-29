@@ -5,10 +5,10 @@ layout: home
 We are recruiting motivated postdoctoral fellows and postgraduate 
 students to [join our growing team](/join/)!
 
-<br />
-
 <img src="https://admissions.hku.hk/sites/default/files/2020-10/hku_logo.svg
 " width="400" />
+
+<br />
 
 We apply data science to [cancer genomics][cancer-genomics] data
 so that we can better understand how cancers form, evolve, and 
