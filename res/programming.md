@@ -4,7 +4,7 @@ title: Programming
 permalink: /res/programming/
 ---
 
-The programming languages that we most commonly used for computational
+The programming languages that we most commonly use for computational
 biology research are **Bash**, **R**, and **Python**.
 We build pipelines for processing raw data in Bash, as well as the
 Workflow Description Language ([WDL](/res/software#wdl)).
