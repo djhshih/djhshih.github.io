@@ -207,7 +207,6 @@ defaults:
     values:
       layout: single
       share: true
-      show_date: true
       sidebar:
         nav: "join"
   # resources
