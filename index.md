@@ -2,6 +2,11 @@
 layout: home
 ---
 
+We are recruiting motivated postdoctoral fellows and postgraduate 
+students to [join our growing team](/join/)!
+
+<br />
+
 <img src="https://admissions.hku.hk/sites/default/files/2020-10/hku_logo.svg
 " width="400" />
 
@@ -20,9 +25,6 @@ Our research topics include:
 <br />
 
 <img src="https://covid19.med.hku.hk/files/current-event/img/hkumedlogo-black.png" width="400" />
-
-We are recruiting motivated postdoctoral fellows and postgraduate 
-students to [join our growing team](/join/)!
 
 [cancer-genomics]: https://www.nature.com/subjects/cancer-genomics
 
