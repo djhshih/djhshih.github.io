@@ -4,7 +4,7 @@ title: Artifact Removal
 permalink: /sci/artifact
 ---
 
-## Problem
+## Motivation
 
 - Genomic data are rife with technical artifacts and measurement errors
 
