@@ -49,7 +49,7 @@ permalink: /res/software/
 
 - [qlsub](https://github.com/djhshih/qlsub)
 
-## Workflow Description Language
+## WDL 
 
 - [First WDL Script](https://support.terra.bio/hc/en-us/articles/360037127992--1-howto-Write-your-first-WDL-script-running-GATK-HaplotypeCaller)
 - [wdl-canales](https://github.com/djhshih/wdl-canales)

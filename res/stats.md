@@ -4,12 +4,21 @@ title: Statistics
 permalink: /res/stats/
 ---
 
-## Introductory
+## Undergraduate
+
+- [Statistical Inference for Everyone](https://open.umn.edu/opentextbooks/formats/619)
+  (Brian Blais):
+  Accessible introductory open textbook to statistical inference.
 
 - [Bayesian Methods](https://trepo.tuni.fi/bitstream/handle/10024/128392/bayesian_methods.pdf)
   (Robert Piche):
   Accessible introductory course to Bayesian inference and methods,
   with worked examples in WinBUGS
+
+## Postgraduate
+
+- Statistical Inference. (George Casella, Roger L. Berger):
+  Classic textbook on statistical inference.
 
 ## Advanced Topics
 

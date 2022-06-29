@@ -4,16 +4,25 @@ title: Programming
 permalink: /res/programming/
 ---
 
-The most commonly used programming languages in computational biology
-are Bash, R, and Python. Bash is used for building pipelines for processing
-raw data. R is used for visualization, statistical analyses, genomic data
-analysis, and developing novel statistical models (often with Stan).
-Python is used for constructing deep learning models.
+The programming languages that we most commonly used for computational
+biology research are **Bash**, **R**, and **Python**.
+We build pipelines for processing raw data in Bash, as well as the
+Workflow Description Language ([WDL](/res/software#wdl)).
+We generate plots, perform statistical analyses, and analyze 
+preprocessed genomic data in R.
+We also develop novel statistical models in R, often along with Stan.
+Finally, we use Python for text processing as well as constructing deep
+learning models.
 
-Additionally, C++ and Rust are used for implementing computationally
-efficient programs.
+Additionally, we sometimes re-implement parts of a program in C++ in order
+to improve computational speed and efficiency. We also implement efficient
+programs in C++ and Rust.
 
 ## General
+
+In order to ensure that our work is reproducible and our code is high
+quality, we adhere to common best practices of software development,
+including unit testing and version control.
 
 - [Best Practices](https://www.educative.io/blog/coding-best-practices)
 - [Whitespace](https://medium.datadriveninvestor.com/whitespaces-can-reveal-your-coding-skills-and-determine-your-salary-maybe-b5fb5c300cb4)
