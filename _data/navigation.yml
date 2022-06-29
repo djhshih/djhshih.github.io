@@ -44,13 +44,13 @@ sci:
   - title: "Science"
     children:
       - title: "Overview"
-        url: /res/
+        url: /sci/
       - title: "Artifact Removal"
-        url: /res/artifact/
+        url: /sci/artifact/
       - title: "Mutational Processes"
-        url: /res/mutproc/
+        url: /sci/mutproc/
       - title: "Genomic Landscape"
-        url: /res/genomic/
+        url: /sci/genomic/
       - title: "Spatial Transcriptomics"
-        url: /res/st/
+        url: /sci/st/
 
