@@ -19,10 +19,10 @@ permalink: /sci/
 
 ## How we do it
 
-- Generating, assembling, and normalizing large-scale genomics data
-- Constructing statistical models that captures the key elements of the
+- Generate, assemble, and normalize large-scale genomics data
+- Construct statistical models that captures the key elements of the
   data generating process and noise characteristics
-- Developing deep learning models to discover patterns from data
+- Develop deep learning models to discover patterns from data
 
 Select a project from the menu to learn more.
 
