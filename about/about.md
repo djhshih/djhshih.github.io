@@ -12,7 +12,7 @@ Li Ka Shing Faculty of Medicine at the University of Hong Kong.
 
 David J. H. Shih, PhD
 Assistant Professor, School of Biomedical Sciences  
-*Interests*: Cancer genomics, Bayesian modelling, deep learning  
+*Interests*: cancer genomics, Bayesian modelling, deep learning  
 *Hobbies*: programming, swimming, cooking, softball, volleyball
 
 ### Postdoctoral Fellow
