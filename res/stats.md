@@ -8,11 +8,11 @@ permalink: /res/stats/
 
 - [Statistical Inference for Everyone](https://open.umn.edu/opentextbooks/formats/619)
   (Brian Blais):
-  Accessible introductory open textbook to statistical inference.
+  Accessible introductory open textbook on statistical inference.
 
 - [Bayesian Methods](https://trepo.tuni.fi/bitstream/handle/10024/128392/bayesian_methods.pdf)
   (Robert Piche):
-  Accessible introductory course to Bayesian inference and methods,
+  Accessible introductory course on Bayesian inference and methods,
   with worked examples in WinBUGS
 
 ## Postgraduate
