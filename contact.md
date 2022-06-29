@@ -4,6 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
+<img src="https://thesmalab.files.wordpress.com/2016/09/hku-facmed-long.jpg" width=600 />
+
+We are located in the Laboratory Block within the
+Li Ka Shing Medical Sciences Building complex.
+
 The best way to reach us is by email.
 
 ## Email
@@ -12,8 +17,6 @@ David J. H. Shih
 {{ site.email }}
 
 ## Lab address
-
-Sending us a parcel?
 
 | *Room & floor*  | L1-54, 1/F       |
 | *Building*      | Laboratory Block |
