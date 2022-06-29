@@ -19,9 +19,9 @@ recruiting:
 - [Adept Mathematician](/join/postgrad/#adept-mathematician)
 - [Elite Scholar](/join/postgrad/#elite-scholar)
 
-In order to improve your programming skills before your interview,
-you may wish to review our curated resource list for
-[programming](/res/programming/).
+Since we write code extensively for our research, many positions will
+involve a pair coding interview. So, you may wish to review
+our curated resource list for [programming](/res/programming/).
 
 Select an available position in the menu for more information.
 
