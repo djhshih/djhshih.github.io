@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Genomic Landscape
-permalink: /sci/genomic
+permalink: /sci/genomic/
 ---
 
 ## Motivation

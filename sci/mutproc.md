@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Mutational Processes
-permalink: /sci/mutproc
+permalink: /sci/mutproc/
 ---
 
 ## Motivation

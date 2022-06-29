@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Spatial Transcriptomics
-permalink: /sci/st
+permalink: /sci/st/
 ---
 
 ## Motivation

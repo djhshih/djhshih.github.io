@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Artifact Removal
-permalink: /sci/artifact
+permalink: /sci/artifact/
 ---
 
 ## Motivation
