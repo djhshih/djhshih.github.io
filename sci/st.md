@@ -11,11 +11,11 @@ permalink: /sci/st
 
 ## Approach
 
-- Enhance spatial transcriptomics with statistical models and
+- Enhance spatial transcriptomics data with statistical models and
   deep learning
 
 ## Impact
 
-- Enable the derivation of biologlical insights from spaital
-  transcriptomics data
+- Enable the derivation of biologlical insights from spatial
+  transcriptomics
 
