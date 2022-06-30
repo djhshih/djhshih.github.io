@@ -11,7 +11,7 @@ We welcome prospective students to pursue postgraduate study with us!
 You should meet at least one set of requirements below.
 
 #### Coder
-- BSc in a science, technology, engineering, or mathemtics field
+- BSc in science, technology, engineering, or mathemtics
 - Proficiency in R, Python, C, C++, Rust, or Julia
 - Competency in Bash
 
@@ -45,6 +45,10 @@ As a PhD or MPhil student, you will be paid a stipend (*i.e.* salary)
 depending on the [scholarship][scholarship] that you receive.
 
 1. Review the [admission requirements][rpg-req].
+   - BSc GPA ≥ 3.6 or (BSC GPA ≥ 3.0 and MSc)
+   - TOEFL ≥ 80 or (IELTS ≥ 6 and each subscore ≥ 5.5)
+     or BSc was obtained from a university where language of 
+     instruction is English 
 2. Satisfy a set of requirements above.
 3. Email {{ site.email }} with your CV and research interests.
 4. Prepare for a pair programming interview.
