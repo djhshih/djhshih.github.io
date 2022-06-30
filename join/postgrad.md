@@ -10,21 +10,21 @@ permalink: /join/postgrad/
 We welcome prospective students to pursue postgraduate study with us!
 You should meet at least one set of requirements below.
 
-#### Skilled Coder
+#### Coder
 - BSc in a science, technology, engineering, or mathemtics field
 - Proficiency in R, Python, C, C++, Rust, or Julia
 - Competency in Bash
 
 *or*
 
-#### Adept Mathematician
+#### Mathematician
 - BSc in a mathematics field
 - Proficiency in mathematical statistics
 - Experience in R, Python, C, C++, Rust, or Julia
 
 *or*
 
-#### Elite Scholar
+#### Scholar
 - BSc with a very high GPA (3.8 out of 4.3, or equivalent)
 - BSc conferred by a top 50 university based on either
     - [QS World University Ranking][qs-ranking], or
