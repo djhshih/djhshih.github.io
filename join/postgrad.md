@@ -55,7 +55,7 @@ depending on the [scholarship][scholarship] that you receive.
 6. Submit [application][rpg-app] to the HKU graduate school,
    proposing me as your supervisor.
 
-Student admission is decided by a committee of faculty members.
+Research postgraduate student admission is decided by a committee of faculty members.
 
 ### MMedSc
 
@@ -68,12 +68,17 @@ conducting a supervised research project.
 4. Submit an application, selecting [SBMS7800][sbms7800] as a
    specialization.
 
-Student admission is determined by a series of reviews.
+MMedSc student admission is determined after several rounds of internal reviews.
 
+### MRes[Med]
+
+If you are a MBBS student in the Faculty of Medicine at HKU, you can work on
+a research project with us through the [MRes[Med] program][mresmed].
 
 [rpg-req]: https://gradsch.hku.hk/gradsch/rola/online-application-for-mphil-phd-admission
 [rpg-app]: https://gradsch.hku.hk/gradsch/rola/online-application-for-mphil-phd-admission
 [mmedsc-req]: https://admissions.hku.hk/tpg/programme/master-medical-sciences
 [scholarship]: https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees
 [sbms7800]: https://www.med.hku.hk/images/document/03edu/taught/mmedsc/curriculum/sm_schbio.html
+[mresmed]: https://www.med.hku.hk/en/teaching-and-learning/postgraduate/tpg/mresmed
 
