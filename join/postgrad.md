@@ -48,7 +48,7 @@ depending on the [scholarship][scholarship] that you receive.
    - BSc GPA ≥ 3.6 / 4.3 or (BSc GPA ≥ 3.0 / 4.3 and MSc)
    - TOEFL ≥ 80 or (IELTS ≥ 6 and each subscore ≥ 5.5)
      or the language of instruction for your BSc was English 
-2. Satisfy a set of requirements above.
+2. Satisfy a set of [our requirements](#requirements) above.
 3. Email {{ site.email }} with your CV and research interests.
 4. Prepare for a pair programming interview.
 5. Prepare your research proposal with my help.
