@@ -7,7 +7,7 @@ permalink: /join/undergrad/
 
 If you are an undergraduate in the School of Biomedical Sciences, and you
 are interested in getting involved in research, we welcome you to 
-participate in a final year project with u:
+participate in a final year project with us:
 - [BIOC4999][bioc4999]
 - [BBMS4001][bmedsci]
 
