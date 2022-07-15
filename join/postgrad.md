@@ -11,7 +11,7 @@ We welcome prospective students to pursue postgraduate study with us!
 You should meet at least one set of requirements below.
 
 #### Coder
-- BSc in science, technology, engineering, or mathemtics
+- BSc in science, technology, engineering, or mathematics
 - Proficiency in R, Python, C, C++, Rust, or Julia
 - Competency in Bash
 
