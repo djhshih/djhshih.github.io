@@ -10,22 +10,22 @@ permalink: /join/postgrad/
 We welcome prospective students to pursue postgraduate study with us!
 You should meet at least one set of requirements below.
 
-#### Skilled Coder
-- BSc in a science, technology, engineering, or mathemtics field
+#### Coder
+- BSc in science, technology, engineering, or mathematics
 - Proficiency in R, Python, C, C++, Rust, or Julia
 - Competency in Bash
 
 *or*
 
-#### Adept Mathematician
+#### Mathematician
 - BSc in a mathematics field
 - Proficiency in mathematical statistics
 - Experience in R, Python, C, C++, Rust, or Julia
 
 *or*
 
-#### Elite Scholar
-- BSc with a very high GPA (3.8 out of 4.3, or equivalent)
+#### Scholar
+- BSc with a very high GPA (3.8 / 4.3, or equivalent)
 - BSc conferred by a top 50 university based on either
     - [QS World University Ranking][qs-ranking], or
     - [Times Higher Education World University Ranking][the-ranking]
@@ -45,14 +45,17 @@ As a PhD or MPhil student, you will be paid a stipend (*i.e.* salary)
 depending on the [scholarship][scholarship] that you receive.
 
 1. Review the [admission requirements][rpg-req].
-2. Satisfy a set of requirements above.
+   - BSc GPA ≥ 3.6 / 4.3 or (BSc GPA ≥ 3.0 / 4.3 and MSc)
+   - TOEFL ≥ 80 or (IELTS ≥ 6 and each subscore ≥ 5.5)
+     or the language of instruction for your BSc was English 
+2. Satisfy a set of [our requirements](#requirements) above.
 3. Email {{ site.email }} with your CV and research interests.
 4. Prepare for a pair programming interview.
 5. Prepare your research proposal with my help.
 6. Submit [application][rpg-app] to the HKU graduate school,
    proposing me as your supervisor.
 
-Student admission is decided by a committee of faculty members.
+Research postgraduate student admission is decided by a committee of faculty members.
 
 ### MMedSc
 
@@ -65,12 +68,17 @@ conducting a supervised research project.
 4. Submit an application, selecting [SBMS7800][sbms7800] as a
    specialization.
 
-Student admission is determined by a series of reviews.
+MMedSc student admission is determined after several rounds of internal reviews.
 
+### MRes[Med]
+
+If you are a MBBS student in the Faculty of Medicine at HKU, you can work on
+a research project with us through the [MRes[Med] program][mresmed].
 
 [rpg-req]: https://gradsch.hku.hk/gradsch/rola/online-application-for-mphil-phd-admission
 [rpg-app]: https://gradsch.hku.hk/gradsch/rola/online-application-for-mphil-phd-admission
 [mmedsc-req]: https://admissions.hku.hk/tpg/programme/master-medical-sciences
 [scholarship]: https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees
 [sbms7800]: https://www.med.hku.hk/images/document/03edu/taught/mmedsc/curriculum/sm_schbio.html
+[mresmed]: https://www.med.hku.hk/en/teaching-and-learning/postgraduate/tpg/mresmed
 

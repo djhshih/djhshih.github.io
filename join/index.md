@@ -14,14 +14,14 @@ Our research requires the following skills:
 - statistical modelling
 - biological inference
 
-There are broadly three types of budding scientists that we are keen on
+There are three broad types of budding scientists that we are keen on
 recruiting:
-- [Skilled Coder](/join/postgrad/#skilled-coder)
-- [Adept Mathematician](/join/postgrad/#adept-mathematician)
-- [Elite Scholar](/join/postgrad/#elite-scholar)
+- [Coder](/join/postgrad/#coder)
+- [Mathematician](/join/postgrad/#mathematician)
+- [Scholar](/join/postgrad/#scholar)
 
-Since we write code extensively for our research, the interview 
-for most positions will involve a pair coding session. 
+Since we write code extensively for our research, your interview 
+for most positions will involve a pair programming session. 
 So, you may wish to review our curated resource list for 
 [programming](/res/programming/).
 
