@@ -56,14 +56,52 @@ not support arm64, including many R Bioconductor packages.
 Given these limitations, MacOS is not an ideal substitute for Linux in 
 bioinformatic research projects.
 
-### Recommendation
+## Set up
 
-Beginner Linux users should setup a Fedora virtual machine on their computers using
+Beginner Linux users who are interested in scientific research
+should setup a Fedora virtual machine on their computers using
 [Virtual Box](https://www.virtualbox.org/wiki/Downloads).
 This would allow users to learn software tools and develop code on their Fedora
 virtual machine and transition as seamlessly as possible to server
 environments based on CentOS.
 
-Experienced Linux users can consider setting up dual-boot computers or
-dedicated computers running Fedora, Arch Linux, or NixOS.
+Power Linux users who would like to become more productive in Linux
+can consider setting up dual-boot computers or dedicated computers 
+running Fedora, Arch Linux, or NixOS.
+
+## Development workflows
+
+#### Local to remote development
+
+1. Write code on your local computer using
+    - Visual Studio Code
+    - R Studio
+    - JupyterLab
+    - vim
+
+2. Log on to remote comptuer using `ssh`.
+
+3. Use `git` to synchronize your code between the local and remote computers.
+   Use `rsync` to synchronize data, especially binary files.
+
+4. Run code on the remote computer.
+
+### Remote development with browser
+
+1. Set up ssh tunnel between the remote computer and your local computer.
+
+2. Write code on the remote computer using a local web browser with
+    - R Studio Server
+    - JupyterLab
+
+3. Run code on the remote computer as you develop.
+
+#### Remote development with command line
+
+1. Log on to remote computer using `ssh`.
+
+2. Start a `tmux` session.
+
+3. Use `vim` with the `Nvim-R` plugin for R, or `vim-slime` plugin for 
+   everything else.
 
