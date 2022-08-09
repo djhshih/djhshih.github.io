@@ -18,14 +18,14 @@ research projects in our lab.
 There are a myriad of other Linux variants (i.e. distributions).
 They fall into three main families:
 
-1. Red Hat, CentOS Stream, Fedora)
-2. Debian, Ubuntu
-3. Arch Linux
+1. Red Hat, CentOS, Fedora
+2. Debian, Ubuntu, MX Linux, Mint, ...
+3. Arch Linux, EndeavourOS, Manjaro, Garuda, ...
 
 Most computing servers run a variants of Linux known as
-CentOS (versions 7 or 8), which is the community version of Red Hat Enterprise Linux.
+CentOS Linux (versions 7 or 8), which is the community version of Red Hat Enterprise Linux.
 The latter is often used in risk-adverse enterprise environments.
-Starting in 2021, CentOS is being replaced with CentOS Stream, which removes
+Starting in 2021, CentOS Linux is being replaced with CentOS Stream, which removes
 minor versioning. Research organizations such as CERN has adopted CentOS Stream.
 
 Ubuntu and its derivative distributions likely have the best hardware driver support
@@ -45,7 +45,7 @@ also be run on other Linux distributions.
 ### MacOS
 
 MacOS is based on BSD Unix. While it has some similiarties to Linux, it has
-many important differences. For example, Linux `coreutils` provide basic command
+many important differences. For example, Linux coreutils provide basic command
 line tools such as `find` and `grep` that are very different from the tools
 provided by MacOS. Bash scripts written for Linux may not work on MacOS.
 
