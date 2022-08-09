@@ -31,6 +31,8 @@ res:
     children:
       - title: "Overview"
         url: /res/
+      - title: "Computing"
+        url: /res/computing/
       - title: "Programming"
         url: /res/programming/
       - title: "Software"
