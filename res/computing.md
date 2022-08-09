@@ -91,6 +91,7 @@ running Fedora, Arch Linux, or NixOS.
 1. Set up ssh tunnel between the remote computer and your local computer.
 
 2. Write code on the remote computer using a local web browser with
+    - [code-server][code-server]
     - R Studio Server
     - JupyterLab
 
@@ -104,4 +105,7 @@ running Fedora, Arch Linux, or NixOS.
 
 3. Use `vim` with the `Nvim-R` plugin for R, or `vim-slime` plugin for 
    everything else.
+
+
+[code-server]: https://github.com/coder/code-server
 
