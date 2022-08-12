@@ -15,7 +15,7 @@ Assistant Professor, School of Biomedical Sciences
 *Interests*: cancer genomics, Bayesian modelling, deep learning  
 *Hobbies*: programming, swimming, cooking, softball, volleyball
 
-### Postdoctoral Fellow
+### Postdoctoral Fellows
 
 [Recruiting](/join/postdoc/)
 
@@ -23,9 +23,15 @@ Assistant Professor, School of Biomedical Sciences
 
 [Recruiting](/join/postgrad/)
 
-### Undergraduate Interns
+Tian Tan (2022)
 
-Mun Kay HO (2022)
+### Research Assistants
+
+Jonathan Tse (2022)
+
+### Undergraduate Students
 
 [Recruiting](/join/undergrad/)
+
+Mun Kay Ho (2022)
 
