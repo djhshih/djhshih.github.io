@@ -39,6 +39,8 @@ res:
         url: /res/software/
       - title: "Statistics"
         url: /res/stats/
+      - title: "Machine Learning"
+        url: /res/ml/
       - title: "Databases"
         url: /res/db/
 

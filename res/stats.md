@@ -34,3 +34,7 @@ permalink: /res/stats/
   (David M. Blei, Alp Kuculkelbir, Jon D. McAuliffe):
   Tutorial for statisticians
 
+- [Variational Autoencoder](https://arxiv.org/abs/1906.02691)
+  (Diederik P. Kingma, Max Welling):
+  Framework for combing statistical models and deep learning
+
