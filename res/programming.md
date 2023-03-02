@@ -31,7 +31,7 @@ including unit testing and version control.
 
 The **Software Carpentry** has many [high-quality lessons](https://software-carpentry.org/lessons/)
 geared towards beginners and self-learners for Shell/Bash, Python, and R.
-For deeper dives after working through their lessons, you can check out the resources below.
+After working through their lessons, you can check out the resources below for deeper dives.
 
 ### Bash
 
