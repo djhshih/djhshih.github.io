@@ -29,6 +29,10 @@ including unit testing and version control.
 - [Unit Testing](https://www.educative.io/blog/unit-testing-best-practices-overview)
 - [Git Version Control](https://rogerdudler.github.io/git-guide/)
 
+The **Software Carpentry** has many [high-quality lessons](https://software-carpentry.org/lessons/)
+geared towards beginners and self-learners for Shell/Bash, Python, and R.
+For deeper dives after working through their lessons, you can check out the resources below.
+
 ## Bash
 
 - [Quick Bash](https://djhshih.gitbook.io/quick-bash/)
@@ -42,11 +46,15 @@ including unit testing and version control.
 
 - [Python Tutorial](https://www.pythontutorial.net)
 
-## Rust
+## Other languages
+
+The below languages are not mainstream yet, but they can be very useful indeed
+for specific applications.
+
+### Rust
 
 - [Rust Programming Language](https://doc.rust-lang.org/book/)
 
-## Julia
+### Julia
 
 - [Introduction to Julia](https://sje30.github.io/catam-julia/)
-
