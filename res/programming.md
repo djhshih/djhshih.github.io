@@ -33,16 +33,16 @@ The **Software Carpentry** has many [high-quality lessons](https://software-carp
 geared towards beginners and self-learners for Shell/Bash, Python, and R.
 For deeper dives after working through their lessons, you can check out the resources below.
 
-## Bash
+### Bash
 
 - [Quick Bash](https://djhshih.gitbook.io/quick-bash/)
 
-## R
+### R
 
 - [Intro to R](https://github.com/djhshih/intro-r)
 - [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) (Roger Peng)
 
-## Python
+### Python
 
 - [Python Tutorial](https://www.pythontutorial.net)
 
