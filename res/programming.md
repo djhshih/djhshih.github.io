@@ -13,10 +13,11 @@ preprocessed genomic data in R.
 We also develop novel statistical models in R, often along with Stan.
 Finally, we use Python for text processing as well as constructing deep
 learning models.
-
 Additionally, we sometimes re-implement parts of a program in C++ in order
-to improve computational speed and efficiency. We also implement efficient
-programs in C++ and Rust.
+to improve computational speed and efficiency.
+We also use C++ and Rust to implement programs to solve problems for
+which computational efficiency is key.
+
 
 ## General
 
@@ -58,3 +59,11 @@ for specific applications.
 ### Julia
 
 - [Introduction to Julia](https://sje30.github.io/catam-julia/)
+
+## Exercises
+
+- [R](https://github.com/djhshih/exercise-r)
+- [Python](https://github.com/djhshih/exercise-python)
+- [C++](https://github.com/djhshih/exercise-cpp)
+- [Sequencing pipeline](https://github.com/djhshih/exercise-wes)
+- [Statistical modelling](https://github.com/djhshih/exercise-stats)
