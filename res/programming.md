@@ -45,12 +45,13 @@ After working through their lessons, you can check out the resources below for d
 
 ### Python
 
+- [Python for Everybody](https://www.py4e.com/lessons)
 - [Python Tutorial](https://www.pythontutorial.net)
+
 
 ## Other languages
 
-The below languages are not mainstream yet, but they can be very useful indeed
-for specific applications.
+The niche languages below can be very useful for specific applications.
 
 ### Rust
 
@@ -59,6 +60,7 @@ for specific applications.
 ### Julia
 
 - [Introduction to Julia](https://sje30.github.io/catam-julia/)
+
 
 ## Exercises
 
