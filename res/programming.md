@@ -67,5 +67,6 @@ The niche languages below can be very useful for specific applications.
 - [R](https://github.com/djhshih/exercise-r)
 - [Python](https://github.com/djhshih/exercise-python)
 - [C++](https://github.com/djhshih/exercise-cpp)
-- [Sequencing pipeline](https://github.com/djhshih/exercise-wes)
+- Bioinformatic pipelines: [exome-seq](https://github.com/djhshih/exercise-wes) and [RNA-seq](https://github.com/djhshih/exercise-rna-seq)
 - [Statistical modelling](https://github.com/djhshih/exercise-stats)
+
