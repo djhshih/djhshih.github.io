@@ -23,15 +23,17 @@ Assistant Professor, School of Biomedical Sciences
 
 [Recruiting](/join/postgrad/)
 
-Tian Tan (2022)
+Tian Tan (MMedSc, 2022-)
 
 ### Research Assistants
 
-Jonathan Tse (2022)
+Jonathan Tse (2022-)
 
 ### Undergraduate Students
 
 [Recruiting](/join/undergrad/)
 
-Mun Kay Ho (2022)
+Ye Ri Han (Final year project, 2022-)
+Sum Yi Wong (Enrichment year project, 2022-)
+Mun Kay Ho (Summer project, 2022)
 
