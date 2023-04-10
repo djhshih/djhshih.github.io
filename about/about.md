@@ -23,10 +23,13 @@ Assistant Professor, School of Biomedical Sciences
 
 [Recruiting](/join/postgrad/)
 
+Yiran Yang (PhD, 2023-)
+Noel Yue (PhD, 2023-)
 Tian Tan (MMedSc, 2022-)
 
 ### Research Assistants
 
+Hanning Chen (2023-)
 Jonathan Tse (2022-)
 
 ### Undergraduate Students
