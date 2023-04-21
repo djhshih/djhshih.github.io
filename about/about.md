@@ -23,6 +23,7 @@ Assistant Professor, School of Biomedical Sciences
 
 [Recruiting](/join/postgrad/)
 
+Bingqing Yang (PhD, 2023-)
 Yiran Yang (PhD, 2023-)
 Noel Yue (PhD, 2023-)
 Tian Tan (MMedSc, 2022-)
