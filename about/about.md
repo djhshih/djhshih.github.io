@@ -13,7 +13,7 @@ Li Ka Shing Faculty of Medicine at the University of Hong Kong.
 David J. H. Shih, PhD  
 Assistant Professor, School of Biomedical Sciences  
 *Interests*: cancer genomics, Bayesian modelling, deep learning  
-*Hobbies*: programming, swimming, cooking, softball, volleyball
+*Hobbies*: programming, swimming, cooking, softball, volleyball  
 
 ### Postdoctoral Fellows
 
@@ -23,21 +23,26 @@ Assistant Professor, School of Biomedical Sciences
 
 [Recruiting](/join/postgrad/)
 
-Bingqing Yang (PhD, 2023-)  
-Yiran Yang (PhD, 2023-)  
-Noel Yue (PhD, 2023-)  
-Tian Tan (MMedSc, 2022-)  
+Bingqing Yang (PhD Student, 2023-)  
+Yiran Yang (PhD Student, 2023-)  
+Noel Yue (PhD Student, 2023-)  
+Tian Tan (MMedSc Student, 2022-)  
 
 ### Research Assistants
 
-Hanning Chen (2023-)  
 Jonathan Tse (2022-)  
 
 ### Undergraduate Students
 
 [Recruiting](/join/undergrad/)
 
-Ye Ri Han (Final year project, 2022-)  
-Sum Yi Wong (Enrichment year project, 2022-)  
-Mun Kay Ho (Summer project, 2022)  
+Celine Zhilin Chen (2023-)  
+Nichaolas Lau (2023-)  
+
+### Past
+
+Hanning Chen (Research Assistant, 2023; now PhD Student at U of Melbourne)  
+Ye Ri Han (Final Year Project Student, 2022-2023)  
+Sum Yi Wong (Enrichment Year Project Student, 2023)  
+Mun Kay Ho (Summer Project Student, 2022)  
 
