@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-date: 2023-04-21
+date: 2023-06-23
 permalink: /about/
 ---
 
@@ -37,7 +37,7 @@ Jonathan Tse (2022-)
 [Recruiting](/join/undergrad/)
 
 Celine Zhilin Chen (2023-)  
-Nichaolas Lau (2023-)  
+Nicholas Lau (2023-)  
 
 ### Past
 
