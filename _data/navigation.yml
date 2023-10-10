@@ -43,6 +43,8 @@ res:
         url: /res/ml/
       - title: "Databases"
         url: /res/db/
+      - title: "Exercises"
+        url: /res/exercises/
 
 sci:
   - title: "Science"
