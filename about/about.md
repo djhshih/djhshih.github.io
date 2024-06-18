@@ -23,26 +23,29 @@ Assistant Professor, School of Biomedical Sciences
 
 [Recruiting](/join/postgrad/)
 
+Jonathan Tse (Research Assistant 2022-2023; PhD Student, 2023-)  
+Celine Zhilin Chen (Final Year Project Student 2023-2024; PhD Student, 2024-)  
 Bingqing Yang (PhD Student, 2023-)  
-Yiran Yang (PhD Student, 2023-)  
-Noel Yue (PhD Student, 2023-)  
+
 Tian Tan (MMedSc Student, 2022-)  
 
 ### Research Assistants
 
-Jonathan Tse (2022-)  
+[Recruiting](/join/ra/)
 
 ### Undergraduate Students
 
 [Recruiting](/join/undergrad/)
 
-Celine Zhilin Chen (2023-)  
-Nicholas Lau (2023-)  
 
 ### Past
 
+Yerim Rho (Final Year Project Student, 2023-2024; now Research Assistant in South Korea)  
+Wenhao Gou (Research Assistant 2023-2024)  
+Noel Yue (PhD Student, 2023-2024; now PhD Student at HKU)  
+Nicholas Lau (Summer Project Student, 2023; now Medical Student at HKU)  
 Hanning Chen (Research Assistant, 2023; now PhD Student at U of Melbourne)  
 Ye Ri Han (Final Year Project Student, 2022-2023)  
-Sum Yi Wong (Enrichment Year Project Student, 2023)  
-Mun Kay Ho (Summer Project Student, 2022)  
+Sum Yi Wong (Enrichment Year Project Medical Student, 2023)  
+Mun Kay Ho (Summer Project Student, 2022; now MPhil Student at HKU)  
 
