@@ -40,12 +40,18 @@ Tian Tan (MMedSc Student, 2022-)
 
 ### Past
 
-Yerim Rho (Final Year Project Student, 2023-2024; now Research Assistant in South Korea)  
-Wenhao Gou (Research Assistant 2023-2024)  
+George Yan Ho Ng (Biomedical Engineering FYP Student, 2023-2024)  
+Yerim Rho (Biochemistry FYP Student, 2023-2024; now Research Assistant in South Korea)  
+Wenhao Gou (Research Assistant, 2023-2024)  
 Noel Yue (PhD Student, 2023-2024; now PhD Student at HKU)  
-Nicholas Lau (Summer Project Student, 2023; now Medical Student at HKU)  
+Nicole Wong Ching Man (Biomedical Sciences Internship Student, 2023)  
+Nicholas Lau (Biochemistry SP Student, 2023; now Medical Student at HKU)  
 Hanning Chen (Research Assistant, 2023; now PhD Student at U of Melbourne)  
-Ye Ri Han (Final Year Project Student, 2022-2023)  
-Sum Yi Wong (Enrichment Year Project Medical Student, 2023)  
-Mun Kay Ho (Summer Project Student, 2022; now MPhil Student at HKU)  
+Ye Ri Han (Biomedical Sciences FYP Student, 2022-2023)  
+Sum Yi Wong (Medical EYP Student, 2023)  
+Mun Kay Ho (Biomedical Sciences SP Student, 2022; now MPhil Student at HKU)  
+
+FYP, Final Year Project (undergraduate)  
+EYP, Enrichment Year Project (medical)  
+SP, Summer Project (undergraduate)  
 
