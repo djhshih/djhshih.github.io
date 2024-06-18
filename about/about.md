@@ -42,6 +42,7 @@ Tian Tan (MMedSc Student, 2022-)
 
 George Yan Ho Ng (Biomedical Engineering FYP Student, 2023-2024)  
 Yerim Rho (Biochemistry FYP Student, 2023-2024; now Research Assistant in South Korea)  
+Yaofu Liu (Research Assistant, 2023-2024)  
 Wenhao Gou (Research Assistant, 2023-2024)  
 Noel Yue (PhD Student, 2023-2024; now PhD Student at HKU)  
 Nicole Wong Ching Man (Biomedical Sciences Internship Student, 2023)  
