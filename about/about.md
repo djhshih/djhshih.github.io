@@ -19,7 +19,7 @@ Assistant Professor, School of Biomedical Sciences
 
 Carrie Lap Hang Tse (2024-)  
 
-### Postgraduate Students
+### PhD Students
 
 [Recruiting](/join/postgrad/)
 
@@ -36,7 +36,7 @@ Moyukh Shabonn Khan (Research Assistant 2024-)
 ### Master Students
 
 Parker Li (MMedSc Student 2025-)  
-Shengzhi Chen (MPhil Student 2025-)
+Shengzhi Chen (MPhil Student 2025-)  
 
 ### Undergraduate Students
 
