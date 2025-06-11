@@ -1,10 +1,10 @@
 ---
 layout: single
-title:  "BRAIN 2025"
-date:   2025-06-11
+title:  "HSBC - Brain Tumors 2025"
+date:   2025-01-19
 categories: update
 ---
 
 Celine Chen is presenting her work on intracranial germinoma at the 
-BRAIN 2025 conference.
+Hong Kong & Shanghai Brain Consortium 2025 conference.
 
