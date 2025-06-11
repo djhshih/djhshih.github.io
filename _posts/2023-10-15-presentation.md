@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Presenting"
+title:  "Bioconductor Asia 2023"
 date:   2023-10-15
 categories: update
 ---
