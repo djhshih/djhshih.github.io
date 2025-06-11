@@ -2,7 +2,7 @@
 layout: home
 ---
 
-We are recruiting motivated postdoctoral fellows and postgraduate 
+We are recruiting motivated research assistants and postgraduate 
 students to [join our growing team](/join/)!
 
 <img src="https://admissions.hku.hk/sites/default/files/2020-10/hku_logo.svg
