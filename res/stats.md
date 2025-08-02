@@ -6,6 +6,10 @@ permalink: /res/stats/
 
 ## Undergraduate
 
+- [Statistical Modelling in Bioinformatics](https://github.com/djhshih/biof2014/tree/2025-01)
+  (David Shih):
+  Introductory statistics course.
+
 - [Statistical Inference for Everyone](https://open.umn.edu/opentextbooks/formats/619)
   (Brian Blais):
   Accessible introductory open textbook on statistical inference.
