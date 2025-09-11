@@ -15,7 +15,7 @@ Before attempting these exercises, you should consult the
 - [R](https://github.com/djhshih/exercise-r)
 - [Python](https://github.com/djhshih/exercise-python)
 - [C++](https://github.com/djhshih/exercise-cpp)
-- Bioinformatic pipelines: [exome-seq](https://github.com/djhshih/exercise-wes) and [RNA-seq](https://github.com/djhshih/exercise-rna-seq)
+- Bash: Part A [exome-seq](https://github.com/djhshih/exercise-wes) and Part B [RNA-seq](https://github.com/djhshih/exercise-rna-seq)
 
 ## Non-programming exercises
 
