@@ -19,6 +19,6 @@ Before attempting these exercises, you should consult the
 
 ## Non-programming exercises
 
-- [Statistical modelling](https://github.com/djhshih/exercise-stats)
+- [Statistical derivation](https://github.com/djhshih/exercise-stats)
 - [Molecular biology](https://github.com/djhshih/exercise-mol-biol)
 - [Cancer genomics](https://github.com/djhshih/exercise-genomics)
