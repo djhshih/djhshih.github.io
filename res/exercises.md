@@ -7,7 +7,7 @@ permalink: /res/exercises/
 Below are some simplified representative examples of problems that 
 we solve in our research projects.
 
-## Programming exercises
+## Programming exercise sets
 
 Before attempting these exercises, you should consult the
 [programming](/res/programming) page.
@@ -17,7 +17,7 @@ Before attempting these exercises, you should consult the
 - [C++](https://github.com/djhshih/exercise-cpp)
 - Bash: Part A [exome-seq](https://github.com/djhshih/exercise-wes) and Part B [RNA-seq](https://github.com/djhshih/exercise-rna-seq)
 
-## Non-programming exercises
+## Non-programming exercise sets
 
 - [Statistical derivation](https://github.com/djhshih/exercise-stats)
 - [Molecular biology](https://github.com/djhshih/exercise-mol-biol)
