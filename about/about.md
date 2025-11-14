@@ -72,20 +72,20 @@ MPS, Applied Statistics, Cornell University
 ## Alumni
 
 - Celine Zhilin Chen (FYP Student, Biomedical Sciences, 2023--2024; PhD Student, 2024--2025)  
-- Tian Tan (MMedSc Student, 2022--2024) --> Investment Analyst
+- Tian Tan (MMedSc Student, 2022--2024) &rarr; Investment Analyst
 - George Yan Ho Ng (FYP Student, Biomedical Engineering, 2023--2024)  
-- Yerim Rho (Biochemistry FYP Student, 2023--2024) --> RA in biotech
+- Yerim Rho (Biochemistry FYP Student, 2023--2024) &rarr; RA in biotech
 - Yaofu Liu (RA, 2023--2024)  
 - Wenhao Gou (RA, 2023--2024)  
 - Bingqing Yang (PhD Student, 2023--2024)  
 - Noel Yue (PhD Student, 2023--2024)  
 - Nicole Wong Ching Man (Internship Student, Biomedical Sciences, 2023)  
-- Nicholas Lau (SP Student, Biochemistry, 2023) --> Medical Student, HKU
-- Hanning Chen (RA, 2023) --> PhD Student, University of Melbourne
+- Nicholas Lau (SP Student, Biochemistry, 2023) &rarr; Medical Student, HKU
+- Hanning Chen (RA, 2023) &rarr; PhD Student, University of Melbourne
 - Ye Ri Han (FYP Student, Biomedical Sciences, 2022--2023)  
 - Yiran Yang (RA, 2023)  
 - Sum Yi Wong (EYP Student, 2023)  
-- Mun Kay Ho (SP Student, Biomedical Sciences, 2022) --> MPhil Student, HKU
+- Mun Kay Ho (SP Student, Biomedical Sciences, 2022) &rarr; MPhil Student, HKU
 
 
 ## Abbreviations
