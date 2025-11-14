@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "ISCB 2025"
-date:   2025-06-11
+date:   2025-12-10
 categories: update
 ---
 
