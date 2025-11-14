@@ -16,7 +16,7 @@ Assistant Professor, School of Biomedical Sciences
 BSc, Pathobiology, University of Toronto  
 MSc, Cancer Molecular Biology, University of Toronto  
 PhD, Cancer Genomics, University of Toronto  
-*Research interests*: cancer genomics, computational medicine, Bayesian modelling, deep learning  
+Research interests: cancer genomics, computational medicine, Bayesian modelling, deep learning  
 
 
 ### Postdoctoral Fellows
@@ -29,7 +29,7 @@ PhD, Molecular Medicine, HKUST
 
 [Recruiting](/join/postgrad/)
 
-Jonathan W.T. Tse (Research Assistant 2022-2023; PhD Student, 2023--)  
+Jonathan W.T. Tse (RA 2022-2023; PhD Student, 2023--present)  
 BSc & MSc, Applied Mathematics, University College London  
 
 Shengzhi Jason Chen (MPhil Student, 2025--present)  
@@ -63,38 +63,39 @@ MPS, Applied Statistics, Cornell University
 
 [Recruiting](/join/undergrad/)
 
-- Amy Jiafan Luo (Bioinformatics SP Student, 2025; Undergrad in Bioinformatics at HKU)  
-- Katrina Wong (Biomedical Sciences SP Student, 2025; Undergrad in Biomedical Sciences at HKU)  
-- Hadrien Ng (Biochemistry SP Student, 2025; Undergrad in Biochemistry at HKU)  
-- Zack Guo (SP Student, 2025; Undergrad in Cancer Biomedicine at UCL)  
+- Amy Jiafan Luo (SP Student, 2025; Bioinformatics at HKU)  
+- Katrina Wong (SP Student, 2025; Biomedical Sciences at HKU)  
+- Hadrien Ng (SP Student, 2025; Biochemistry at HKU)  
+- Zack Guo (SP Student, 2025; Cancer Biomedicine at UCL)  
 
 
-## Past Members
+## Alumni
 
-- Celine Zhilin Chen (FYP Student 2023--2024; PhD Student, 2024--2025)  
-- Tian Tan (MMedSc Student, 2022--2024; now Investment Analyst)  
-- George Yan Ho Ng (Biomedical Engineering FYP Student, 2023--2024)  
-- Yerim Rho (Biochemistry FYP Student, 2023--2024; now Research Assistant in biotech)  
-- Yaofu Liu (Research Assistant, 2023--2024)  
-- Wenhao Gou (Research Assistant, 2023--2024)  
+- Celine Zhilin Chen (FYP Student, Biomedical Sciences, 2023--2024; PhD Student, 2024--2025)  
+- Tian Tan (MMedSc Student, 2022--2024; Investment Analyst, later)  
+- George Yan Ho Ng (FYP Student, Biomedical Engineering, 2023--2024)  
+- Yerim Rho (Biochemistry FYP Student, 2023--2024; RA in biotech, later)  
+- Yaofu Liu (RA, 2023--2024)  
+- Wenhao Gou (RA, 2023--2024)  
 - Bingqing Yang (PhD Student, 2023--2024)  
 - Noel Yue (PhD Student, 2023--2024)  
-- Nicole Wong Ching Man (Biomedical Sciences Internship Student, 2023)  
-- Nicholas Lau (Biochemistry SP Student, 2023; now Medical Student at HKU)  
-- Hanning Chen (Research Assistant, 2023; now PhD Student at University of Melbourne)  
-- Ye Ri Han (Biomedical Sciences FYP Student, 2022-2023)  
-- Yiran Yang (Research Assistant, 2023)  
-- Sum Yi Wong (Medical EYP Student, 2023)  
-- Mun Kay Ho (Biomedical Sciences SP Student, 2022; now MPhil Student at HKU)  
+- Nicole Wong Ching Man (Internship Student, Biomedical Sciences, 2023)  
+- Nicholas Lau (SP Student, Biochemistry, 2023; Medical Student at HKU, later)  
+- Hanning Chen (RA, 2023; PhD Student at University of Melbourne, later)  
+- Ye Ri Han (FYP Student, Biomedical Sciences, 2022--2023)  
+- Yiran Yang (RA, 2023)  
+- Sum Yi Wong (EYP Student, 2023)  
+- Mun Kay Ho (SP Student, Biomedical Sciences, 2022; MPhil Student at HKU, later)  
 
 
 ## Abbreviations
 
-MPhil, Master of Philosophy (research)  
+EYP, Enrichment Year Project (medical student)  
+FYP, Final Year Project (undergraduate student)  
+RA, Research Assistant
+SP, Summer Project (undergraduate student)  
 MMedSc, Master of Medical Science  
-FYP, Final Year Project (undergraduate)  
-EYP, Enrichment Year Project (medical)  
-SP, Summer Project (undergraduate)  
+MPhil, Master of Philosophy (research postgraduate)  
 
 HKU, University of Hong Kong  
 CUHK, Chinese University of Hong Kong  
