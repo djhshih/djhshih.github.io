@@ -30,7 +30,7 @@ PhD, Molecular Medicine, HKUST
 
 [Recruiting](/join/postgrad/)
 
-Jonathan W.T. Tse (RA 2022-2023; PhD Student, 2023--present)  
+Jonathan W.T. Tse (RA, 2022-2023; PhD Student, 2023--present)  
 BSc & MSc, Applied Mathematics, University College London  
 
 Shengzhi Jason Chen (MPhil Student, 2025--present)  
@@ -43,22 +43,22 @@ BSc, Bioinformatics, Zhejiang University
 
 [Recruiting](/join/ra/)
 
-Sumedha Saxena (Research Assistant 2024--present)  
+Sumedha Saxena (Research Assistant, 2024--present)  
 BSc, Computer Science, Uttar Pradesh Technical University  
 MSc, Information Technology, HKUST  
 MSc, Biomedical Engineering, CUHK  
 
-Moyukh Shabonn Khan (Research Assistant 2024--present)  
+Moyukh Shabonn Khan (Research Assistant, 2024--present)  
 BSc, Applied Biology, PolyU  
 
-Rui Zhang (Research Assistant 2025--present)  
+Rui Zhang (Research Assistant, 2025--present)  
 BSc, Applied Mathematics, University of California Santa Barbara  
 MPS, Applied Statistics, Cornell University  
 
 ### Master Students
 
-- Parker Jim Li (MMedSc Student 2025--present)  
-- Jeffrey Yaoyu Cai (MMedSc Student 2025--present)  
+- Parker Jim Li (MMedSc Student, 2025--present)  
+- Jeffrey Yaoyu Cai (MMedSc Student, 2025--present)  
 
 ### Undergraduate Students
 
@@ -68,13 +68,6 @@ MPS, Applied Statistics, Cornell University
 
 
 ## Alumni
-
-- Tian Tan (MMedSc Student, 2022--2024) &rarr; Investment Analyst
-
-- Yaofu Liu (RA, 2023--2024)  
-- Wenhao Gou (RA, 2023--2024)  
-- Hanning Chen (RA, 2023) &rarr; PhD Student, University of Melbourne
-- Yiran Yang (RA, 2023)  
 
 - Amy Jiafan Luo (SP Student, 2025; Bioinformatics at HKU)  
 - Katrina Wong (SP Student, 2025; Biomedical Sciences at HKU)  
@@ -88,9 +81,16 @@ MPS, Applied Statistics, Cornell University
 - Sum Yi Wong (EYP Student, 2023; Medicine at HKU)  
 - Mun Kay Ho (SP Student, 2022; Biomedical Sciences at HKU) &rarr; MPhil Student, HKU  
 
+- Tian Tan (MMedSc Student, 2022--2024) &rarr; Investment Analyst
+
 - Celine Zhilin Chen (FYP Student, 2023--2024; PhD Student, 2024--2025)  
 - Bingqing Yang (PhD Student, 2023--2024)  
 - Noel Yue (PhD Student, 2023--2024)  
+
+- Yaofu Liu (RA, 2023--2024)  
+- Wenhao Gou (RA, 2023--2024)  
+- Hanning Chen (RA, 2023) &rarr; PhD Student, University of Melbourne
+- Yiran Yang (RA, 2023)  
 
 
 ## Abbreviations
