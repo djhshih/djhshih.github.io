@@ -12,7 +12,8 @@ Li Ka Shing Faculty of Medicine at the University of Hong Kong.
 ### Principal Investigator
 
 David J. H. Shih, PhD  
-Assistant Professor, School of Biomedical Sciences  
+Assistant Professor, School of Biomedical Sciences & School of Biomedical Engineering, HKU  
+Honorary Scientific Advisor, Centre for Oncology and Immunology Ltd  
 BSc, Pathobiology, University of Toronto  
 MSc, Cancer Molecular Biology, University of Toronto  
 PhD, Cancer Genomics, University of Toronto  
@@ -63,36 +64,40 @@ MPS, Applied Statistics, Cornell University
 
 [Recruiting](/join/undergrad/)
 
-- Amy Jiafan Luo (SP Student, 2025; Bioinformatics at HKU)  
-- Katrina Wong (SP Student, 2025; Biomedical Sciences at HKU)  
-- Hadrien Ng (SP Student, 2025; Biochemistry at HKU)  
-- Zack Guo (SP Student, 2025; Cancer Biomedicine at UCL)  
+- Alex Tai (FYP Student, 2025--2026, Biomedical Engineering at HKU)  
 
 
 ## Alumni
 
-- Celine Zhilin Chen (FYP Student, Biomedical Sciences, 2023--2024; PhD Student, 2024--2025)  
 - Tian Tan (MMedSc Student, 2022--2024) &rarr; Investment Analyst
-- George Yan Ho Ng (FYP Student, Biomedical Engineering, 2023--2024)  
-- Yerim Rho (Biochemistry FYP Student, 2023--2024) &rarr; RA in biotech
+
 - Yaofu Liu (RA, 2023--2024)  
 - Wenhao Gou (RA, 2023--2024)  
+- Hanning Chen (RA, 2023) &rarr; PhD Student, University of Melbourne
+- Yiran Yang (RA, 2023)  
+
+- Amy Jiafan Luo (SP Student, 2025; Bioinformatics at HKU)  
+- Katrina Wong (SP Student, 2025; Biomedical Sciences at HKU)  
+- Hadrien Ng (SP Student, 2025; Biochemistry at HKU)  
+- Zack Guo (SP Student, 2025; Cancer Biomedicine at UCL)  
+- George Yan Ho Ng (FYP Student, 2023--2024, Biomedical Engineering at HKU)  
+- Yerim Rho (FYP Student, 2023--2024, Biochemistry at HKU) &rarr; RA in biotech
+- Nicole Wong Ching Man (Internship Student, 2023; Biomedical Sciences at HKU)  
+- Nicholas Lau (SP Student, 2023; Biochemistry at HKU) &rarr; Medical Student, HKU
+- Ye Ri Han (FYP Student, 2022-2023; Biomedical Sciences at HKU)  
+- Sum Yi Wong (EYP Student, 2023; Medicine at HKU)  
+- Mun Kay Ho (SP Student, 2022; Biomedical Sciences at HKU) &rarr; MPhil Student, HKU  
+
+- Celine Zhilin Chen (FYP Student, 2023--2024; PhD Student, 2024--2025)  
 - Bingqing Yang (PhD Student, 2023--2024)  
 - Noel Yue (PhD Student, 2023--2024)  
-- Nicole Wong Ching Man (Internship Student, Biomedical Sciences, 2023)  
-- Nicholas Lau (SP Student, Biochemistry, 2023) &rarr; Medical Student, HKU
-- Hanning Chen (RA, 2023) &rarr; PhD Student, University of Melbourne
-- Ye Ri Han (FYP Student, Biomedical Sciences, 2022--2023)  
-- Yiran Yang (RA, 2023)  
-- Sum Yi Wong (EYP Student, 2023)  
-- Mun Kay Ho (SP Student, Biomedical Sciences, 2022) &rarr; MPhil Student, HKU
 
 
 ## Abbreviations
 
 EYP, Enrichment Year Project (medical student)  
 FYP, Final Year Project (undergraduate student)  
-RA, Research Assistant
+RA, Research Assistant  
 SP, Summer Project (undergraduate student)  
 MMedSc, Master of Medical Science  
 MPhil, Master of Philosophy (research postgraduate)  
