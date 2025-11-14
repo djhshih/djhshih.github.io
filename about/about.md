@@ -48,7 +48,7 @@ BSc, Computer Science, Uttar Pradesh Technical University
 MSc, Information Technology, HKUST  
 MSc, Biomedical Engineering, CUHK  
 
-Moyukh Shabonn Khan (Research Assistant, 2024--present)  
+Moyukh Shabon Khan (Research Assistant, 2024--present)  
 BSc, Applied Biology, PolyU  
 
 Rui Zhang (Research Assistant, 2025--present)  
