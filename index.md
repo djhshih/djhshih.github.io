@@ -2,9 +2,6 @@
 layout: home
 ---
 
-We are recruiting motivated research assistants and postgraduate 
-students to [join our growing team](/join/)!
-
 <img src="https://admissions.hku.hk/sites/default/files/2020-10/hku_logo.svg
 " width="400" />
 
@@ -29,4 +26,7 @@ Our research topics include:
 [cancer-genomics]: https://www.nature.com/subjects/cancer-genomics
 
 <br />
+
+We are recruiting motivated research assistants and postgraduate 
+students to [join our growing team](/join/).
 
