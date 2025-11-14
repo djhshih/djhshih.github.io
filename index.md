@@ -19,14 +19,15 @@ Our research topics include:
 - [genomic landscape](/sci/genomic/)
 - [spatial transcriptomics](/sci/st)
 
+We are recruiting motivated research assistants and postgraduate 
+students to [join our growing team](/join/).
+
 <br />
 
 <img src="https://covid19.med.hku.hk/files/current-event/img/hkumedlogo-black.png" width="400" />
 
-[cancer-genomics]: https://www.nature.com/subjects/cancer-genomics
 
 <br />
 
-We are recruiting motivated research assistants and postgraduate 
-students to [join our growing team](/join/).
+[cancer-genomics]: https://www.nature.com/subjects/cancer-genomics
 
