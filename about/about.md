@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-date: 2025-06-11
+date: 2025-11-14
 permalink: /about/
 ---
 
