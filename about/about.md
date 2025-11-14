@@ -11,7 +11,7 @@ Li Ka Shing Faculty of Medicine at the University of Hong Kong.
 
 ### Principal Investigator
 
-David J. H. Shih, PhD  
+David J. H. Shih  
 Assistant Professor, School of Biomedical Sciences & School of Biomedical Engineering, HKU  
 Honorary Scientific Advisor, Centre for Oncology and Immunology Ltd  
 BSc, Pathobiology, University of Toronto  
