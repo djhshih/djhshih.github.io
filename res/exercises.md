@@ -7,9 +7,12 @@ permalink: /res/exercises/
 Below are some simplified representative examples of problems that 
 we solve in our research projects.
 
+Each entry below contains a set of exercises on a specific programming
+language or topic.
+
 ## Programming exercise sets
 
-Before attempting these exercises, you should consult the
+Before attempting these exercise sets, you should consult the
 [programming](/res/programming) page.
 
 - [R](https://github.com/djhshih/exercise-r)
@@ -22,3 +25,4 @@ Before attempting these exercises, you should consult the
 - [Statistical derivation](https://github.com/djhshih/exercise-stats)
 - [Molecular biology](https://github.com/djhshih/exercise-mol-biol)
 - [Cancer genomics](https://github.com/djhshih/exercise-genomics)
+
